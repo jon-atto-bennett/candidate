@@ -1,0 +1,607 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Alcohol",
+      "title": "What is your policy on the legal age for alcohol consumption and purchase?",
+      "questions": [
+        {
+          "parties": [
+            "green"
+          ],
+          "question": "The legal age should remain 18 years old but more focus needs to be put on tackling our harmful drinking culture.",
+          "policy": "",
+          "id": 1
+        },
+        {
+          "parties": [
+            "national"
+          ],
+          "question": "This is a conscience vote. Policy focus is on reforming alcohol laws and trading hours, and reducing alcohol-related crime.",
+          "policy": "Conscience vote - A type of vote where MPs are allowed to vote according to their own personal conscience rather than according to an official line of their political party.",
+          "id": 2
+        },
+        {
+          "parties": [
+            "nzfirst"
+          ],
+          "question": "Raise the purchase age to 20 years old.",
+          "policy": "",
+          "id": 3
+        },
+        {
+          "parties": [
+            "labour"
+          ],
+          "question": "This policy issue is a conscience vote.",
+          "policy": "Conscience vote - A type of vote where MPs are allowed to vote according to their own personal conscience rather than according to an official line of their political party.",
+          "id": 4
+        },
+        {
+          "parties": [
+            "maori"
+          ],
+          "question": "Keep legal age at 18, but place restrictions on establishing new liquor outlets and trading hours.",
+          "policy": "",
+          "id": 5
+        },
+        {
+          "parties": [
+            "act", "internetmana"
+          ],
+          "question": "Keep the legal age at 18.",
+          "policy": "",
+          "id": 6
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Unemployment",
+      "title": "What is your policy on reducing unemployment?",
+      "questions": [
+        {
+          "parties": [
+            "green"
+          ],
+          "question": " Invest $1 billion into research and development to build a smart, green economy which is jobs rich and better for everyone.",
+          "policy": "",
+          "id": 1
+        },
+        {
+          "parties": [
+            "internetmana"
+          ],
+          "question": "0% target with a right to work; 100,000 new temp jobs. High tech jobs in a digital economy.",
+          "policy": "",
+          "id": 2
+        },
+        {
+          "parties": [
+            "national"
+          ],
+          "question": "Create more jobs and boost incomes (wages growing faster than inflation) to reduce unemployment.",
+          "policy": "",
+          "id": 3
+        },
+        {
+          "parties": [
+            "nzfirst"
+          ],
+          "question": "Less immigration, support regional development, more added value to our products.",
+          "policy": "",
+          "id": 4
+        },
+        {
+          "parties": [
+            "labour"
+          ],
+          "question": "Reduce unemployment to 4% within 3 years and ensure everyone under the age of 20 is in work, education or training.",
+          "policy": "",
+          "id": 5
+        },
+        {
+          "parties": [
+            "maori"
+          ],
+          "question": "Expand Maori and Pacific Trades training by having partnerships with industry and government to extend cadetships, providing work experience and formal qualifications.",
+          "policy": "Cadetships - A cadetship involves paid employment at the same time you are studying or training.",
+          "id": 6
+        },
+        {
+          "parties": [
+            "act"
+          ],
+          "question": "Extend the 90-day trial period and introduce a low flat tax that encourages and rewards employment.",
+          "policy": "Flat tax - A system that applies the same tax rate to every taxpayer regardless of income bracket with no deductions or exemptions allowed.",
+          "id": 7
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Climate Change",
+      "title": "What is your policy regarding climate change mitigation targets?",
+      "questions": [
+        {
+          "parties": [
+            "green"
+          ],
+          "question": "Achieve carbon neutrality by 2050, through a carbon tax which would pay for a personal income tax-free threshold of $2000, and a 1% cut in the company tax rate.",
+          "policy": "Carbon neutrality - Making or resulting in no net release of carbon dioxide into the atmosphere, especially as a result of carbon offsetting. Carbon Tax - a tax on fossil fuels, intended to reduce the emission of carbon dioxide. Company Tax Rate - currently 28%.",
+          "id": 1
+        },
+        {
+          "parties": [
+            "internetmana"
+          ],
+          "question": "100% of electricity generated from renewable sources by 2025 and replace the Emissions Trading Scheme with an Emissions Levy.",
+          "policy": "ETS - New Zealand Emissions Trading Scheme (NZ ETS) puts a price on emissions and therefore creates a financial incentive to change behaviours",
+          "id": 2
+        },
+        {
+          "parties": [
+            "national"
+          ],
+          "question": "NZ to make a fair and affordable contribution to global emissions reduction efforts. The ETS as the most effective tool.",
+          "policy": "ETS - New Zealand Emissions Trading Scheme (NZ ETS) the primary tool of the govt. to reduce emissions. The NZ ETS puts a price on emissions and therefore creates a financial incentive for all New Zealanders – especially businesses and consumers – to change our behaviour.",
+          "id": 3
+        },
+        {
+          "parties": [
+            "nzfirst"
+          ],
+          "question": "Establish strategies and research targets for fossil carbon reduction.",
+          "policy": "Fossil Carbon - Carbon dioxide and other greenhouse gases generated by burning fossil fuels.",
+          "id": 4
+        },
+        {
+          "parties": [
+            "labour"
+          ],
+          "question": "Adopt more ambitious targets for reducing emissions and strengthen the ETS including restricting international units.",
+          "policy": "ETS - New Zealand Emissions Trading Scheme (NZ ETS) the primary tool of the govt. to reduce emissions. The NZ ETS puts a price on emissions and therefore creates a financial incentive for all New Zealanders – especially businesses and consumers – to change our behaviour.",
+          "id": 5
+        },
+        {
+          "parties": [
+            "maori"
+          ],
+          "question": "Review the ETS, invest in low emission technologies and plant more trees. Incentivise those who reduce emissions and deincentivise polluters through setting a carbon price.",
+          "policy": "ETS - New Zealand Emissions Trading Scheme (NZ ETS) the primary tool of the government to reduce emissions. The NZ ETS puts a price on emissions and therefore creates a financial incentive for all New Zealanders – especially businesses and consumers – to change our behaviour.",
+          "id": 6
+        },
+        {
+          "parties": [
+            "act"
+          ],
+          "question": "The costs of mitigation are greater than the benefits.",
+          "policy": "Mitigation - The action of reducing the severity or seriousness of something.  ",
+          "id": 7
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Education",
+      "title": "What is your policy on education, specifically primary and secondary school?",
+      "questions": [
+        {
+          "parties": [
+            "green"
+          ],
+          "question": "Quality and free public education. Schools are community hubs focussed on what all kids need to reach their potential.",
+          "policy": "",
+          "id": 1
+        },
+        {
+          "parties": [
+            "internetmana"
+          ],
+          "question": "100% free, public education system, scrapping National Standards. Support capability development and pedagogical change.",
+          "policy": "Pedagogy - The art or profession of teaching. National Standards - The standards that students need to meet in reading, writing, and mathematics in the first eight years at school.",
+          "id": 2
+        },
+        {
+          "parties": [
+            "national"
+          ],
+          "question": "$10.1 billion for childhood, primary and secondary education. Increase percentage of 18 year olds achieving NCEA level 2 to 85% by 2017.",
+          "policy": "",
+          "id": 3
+        },
+        {
+          "parties": [
+            "nzfirst"
+          ],
+          "question": "Close Charter Schools, remove National Standards and front end the education spend on an equity basis.",
+          "policy": "Charter Schools - A Charter School is a school which receives public funding but operates independently. Charter Schools are an example of alternative education.  National Standards - The standards set clear expectations that students need to meet in reading, writing, and mathematics in the first eight years at school.",
+          "id": 4
+        },
+        {
+          "parties": [
+            "labour"
+          ],
+          "question": "Deliver 2,000 extra teachers to reduce class sizes, make digital devices affordable for Year 5-13 students, and replace school donations.",
+          "policy": "",
+          "id": 5
+        },
+        {
+          "parties": [
+            "maori"
+          ],
+          "question": "Increase the quality of, and access to, primary and secondary education for all, including supporting cultural competency and civics education.",
+          "policy": "",
+          "id": 6
+        },
+        {
+          "parties": [
+            "act"
+          ],
+          "question": "Greater choice for parents and students. Any public school can become a Partnership School.",
+          "policy": "",
+          "id": 7
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Housing",
+      "title": "What is your policy regarding the standard of housing and its affordability?",
+      "questions": [
+        {
+          "parties": [
+            "green"
+          ],
+          "question": "Introduce a warrant of fitness for rentals and the right to renew tenancies with limits on rent increases. Also introduce progressive home ownership for first home buyers.",
+          "policy": "",
+          "id": 1
+        },
+        {
+          "parties": [
+            "internetmana"
+          ],
+          "question": "Build 30,000 new state rental houses and introduce a warrant of fitness for rental homes. Assist low and middle income earners into home ownership.",
+          "policy": "",
+          "id": 2
+        },
+        {
+          "parties": [
+            "national"
+          ],
+          "question": "Increasing housing supply and work with Councils, reform the RMA, and reduce building costs.",
+          "policy": "RMA - Resource Management Act 1999",
+          "id": 3
+        },
+        {
+          "parties": [
+            "nzfirst"
+          ],
+          "question": "Government assistance programme for land purchase for first home buyers.",
+          "policy": "",
+          "id": 4
+        },
+        {
+          "parties": [
+            "labour"
+          ],
+          "question": "Build 100,000 affordable homes over 10 years and introduce a Health Homes Guarantee for rentals.",
+          "policy": "",
+          "id": 5
+        },
+        {
+          "parties": [
+            "maori"
+          ],
+          "question": "A warrant of fitness for all houses and introduce programmes which enable the development of social and affordable housing and housing loans for low income earners.",
+          "policy": "",
+          "id": 6
+        },
+        {
+          "parties": [
+            "act"
+          ],
+          "question": "Local authorities should release more land for homes and reduce red-tape.",
+          "policy": "",
+          "id": 7
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Tax",
+      "title": "What is your policy on Income (PAYE) Tax?",
+      "questions": [
+        {
+          "parties": [
+            "green"
+          ],
+          "question": "Develop a tax structure that promotes equality and is broad-based, treating different sources of income equally.",
+          "policy": "",
+          "id": 1
+        },
+        {
+          "parties": [
+            "internetmana"
+          ],
+          "question": "Introduce Capital Gains, Wealth, and Financial Transactions Taxes. Any tax cuts only for the lowest incomes.",
+          "policy": "Capital Gains Tax - A tax levied on profit from the sale of property or an investment. Wealth Tax - A tax levied on personal capital. Financial Transaction Tax - A financial transaction tax is a levy placed on a specific type of monetary transaction for a particular purpose.",
+          "id": 2
+        },
+        {
+          "parties": [
+            "national"
+          ],
+          "question": "Three-quarters of Kiwi income earners pay a top personal tax rate of just 17.5% or less.",
+          "policy": "",
+          "id": 3
+        },
+        {
+          "parties": [
+            "nzfirst"
+          ],
+          "question": "Everyone should pay their fair share, clamp down on tax evasion.",
+          "policy": "",
+          "id": 4
+        },
+        {
+          "parties": [
+            "labour"
+          ],
+          "question": "Introduce a Capital Gains Tax (excluding the family home) and a new progressive top tax rate of 36% on income over $150,000.",
+          "policy": "Capital Gains Tax - A tax levied on profit from the sale of property or an investment.",
+          "id": 5
+        },
+        {
+          "parties": [
+            "maori"
+          ],
+          "question": "Review tax system to ensure greater benefits to individuals rather than corporations, including no tax on first $25,000 earned and extending Tax Credit to low income families.",
+          "policy": "",
+          "id": 6
+        },
+        {
+          "parties": [
+            "act"
+          ],
+          "question": "Introduce a low flat tax as it encourages and rewards employment.",
+          "policy": "Flat tax - A system that applies the same tax rate to every taxpayer regardless of income bracket with no deductions or exemptions allowed.",
+          "id": 7
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Student Debt",
+      "title": "What is your policy regarding the future of student loans and/or allowances?",
+      "questions": [
+        {
+          "parties": [
+            "green"
+          ],
+          "question": "Restore student allowance for postgrad students and introduce debt write-off.",
+          "policy": "",
+          "id": 1
+        },
+        {
+          "parties": [
+            "internetmana"
+          ],
+          "question": "Progressively reduce fees to zero, write-off existing student loan debt and introduce a universal student allowance.",
+          "policy": "",
+          "id": 2
+        },
+        {
+          "parties": [
+            "national"
+          ],
+          "question": "$199m boost for tertiary education, interest free student loans and more support for low-income students.",
+          "policy": "",
+          "id": 3
+        },
+        {
+          "parties": [
+            "nzfirst"
+          ],
+          "question": "Introduce a dollar-for-dollar repayment scheme, bonding and universal student allowance.",
+          "policy": "",
+          "id": 4
+        },
+        {
+          "parties": [
+            "labour"
+          ],
+          "question": "Review of the student support system, including allowances, loans, accommodation support and scholarships to create a system that increases access to tertiary education, that is fair, transparent and sustainable.",
+          "policy": "",
+          "id": 5
+        },
+        {
+          "parties": [
+            "maori"
+          ],
+          "question": "Reform the student loan scheme so that it is easier to borrow and pay back, potential options for debt write-off. This will give students time to get into the workforce post study before repayment.",
+          "policy": "",
+          "id": 6
+        },
+        {
+          "parties": [
+            "act"
+          ],
+          "question": "Interest free student loans are unfair, costly to the nation and encourage over-borrowing.",
+          "policy": "",
+          "id": 7
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Health",
+      "title": "What is your policy on access to high quality and affordable health care?",
+      "questions": [
+        {
+          "parties": [
+            "green"
+          ],
+          "question": "Extend free GP visits for children up to 18 years old. Focus on accessible primary healthcare.",
+          "policy": "",
+          "id": 1
+        },
+        {
+          "parties": [
+            "internetmana"
+          ],
+          "question": "Emphasise individual-led healthcare and cut waste. Promote a good standard of living (housing, income, work) and wellbeing.",
+          "policy": "",
+          "id": 2
+        },
+        {
+          "parties": [
+            "national"
+          ],
+          "question": "Provide NZ with high quality healthcare by lifting spending, providing record numbers of surgeries and employing 5000 more doctors and nurses.",
+          "policy": "",
+          "id": 3
+        },
+        {
+          "parties": [
+            "nzfirst"
+          ],
+          "question": "Focus on rural provision and how to use capacity in private providers to deliver surgery.",
+          "policy": "",
+          "id": 4
+        },
+        {
+          "parties": [
+            "labour"
+          ],
+          "question": "Make doctor visits and prescriptions free for children under 13, pregnant women, and people aged 65 and older, and extend the Care Plus program for people with long-term illnesses.",
+          "policy": "Care Plus - A primary health care funding initiative to support people with high health needs due to chronic conditions, acute medical or mental health needs, or terminal illness.",
+          "id": 5
+        },
+        {
+          "parties": [
+            "maori"
+          ],
+          "question": "Free doctors visits for children under 18, as well as promoting cultural competency and health literacy.",
+          "policy": "",
+          "id": 6
+        },
+        {
+          "parties": [
+            "act"
+          ],
+          "question": "The health system should provide more choice for the users.",
+          "policy": "",
+          "id": 7
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Transport",
+      "title": "What is your policy on access to public transport?",
+      "questions": [
+        {
+          "parties": [
+            "green"
+          ],
+          "question": "Free off-peak travel for students and invest $10billion+ in new public transport and rail over 10 years.",
+          "policy": "",
+          "id": 1
+        },
+        {
+          "parties": [
+            "internetmana"
+          ],
+          "question": "Smart transport solutions, promoting public transport and cycling.",
+          "policy": "",
+          "id": 2
+        },
+        {
+          "parties": [
+            "national"
+          ],
+          "question": "All citizens to have access to public transport, a choice in mode of travel, and to help businesses choose the most efficient way of getting goods to market.",
+          "policy": "",
+          "id": 3
+        },
+        {
+          "parties": [
+            "nzfirst"
+          ],
+          "question": "Support public transport but also recognise rural transport solutions.",
+          "policy": "",
+          "id": 4
+        },
+        {
+          "parties": [
+            "labour"
+          ],
+          "question": "Invest in modern, affordable and convenient public transport systems in our cities. This includes building the Auckland City Rail Link and funding it 50:50 with the Auckland Council.",
+          "policy": "",
+          "id": 5
+        },
+        {
+          "parties": [
+            "maori"
+          ],
+          "question": "Free travel for those over 65 years and for all students at all levels. Improve urban design so people are more likely to use public transport, walk or cycle.",
+          "policy": "",
+          "id": 6
+        },
+        {
+          "parties": [
+            "act"
+          ],
+          "question": "Respect that private vehicles are the choice of our citizens.",
+          "policy": "",
+          "id": 7
+        }
+      ]
+    }
+  ],
+  "parties": [
+    {
+      "slug": "act",
+      "name": "ACT",
+      "url": "http://www.google.com",
+      "colour": "#ffd300"
+    },
+    {
+      "slug": "green",
+      "name": "Green",
+      "url": "http://www.google.com",
+      "colour": "#098137"
+    },
+    {
+      "slug": "internetmana",
+      "name": "Internet Mana",
+      "url": "http://www.google.com",
+      "colour": "#666666"
+    },
+    {
+      "slug": "labour",
+      "name": "Labour",
+      "url": "http://www.google.com",
+      "colour": "#F60920"
+    },
+    {
+      "slug": "maori",
+      "name": "Maori",
+      "url": "http://www.google.com",
+      "colour": "#C8001D"
+    },
+    {
+      "slug": "national",
+      "name": "National",
+      "url": "http://www.google.com",
+      "colour": "#00529F"
+    },
+    {
+      "slug": "nzfirst",
+      "name": "NZ First",
+      "url": "http://www.google.com",
+      "colour": "#000000"
+    }
+  ]
+}
