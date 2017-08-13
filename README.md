@@ -1,3 +1,5 @@
+# Candidate
+
 Candidate is part of the Virgin Voter Collective, a New Zealand group who have the mission to encourage first time voters to participate in the democratic process.
 
 Candidate is a Tinder like app where the user can read a series of policies and either agree or disagree with them. Their score will then be reflected to show how their views align with each politcal party by percentage.
