@@ -123,6 +123,13 @@ $(document).ready(function() {
     showBackButton();
   });
 
+  $('.dropdown_menu .more_quizzes').click(function() {
+    $('.dropdown_menu').hide();
+    setLastScreen();
+    animDivs("."+window.lastScreen, ".more_quizzes");
+    showBackButton();
+  });
+
   $('.dropdown_menu .vvc_link').click(function() {
     $('.dropdown_menu').hide();
   });
@@ -388,7 +395,7 @@ function setupQuestions() {
   // window.quizData.parties[6].votes = [{'c':3, 'q':1},{'c':4, 'q':1}];
 
   // // window.quizData.parties[2].votes = [1,0];
-  endQuiz();
+  // endQuiz();
 }
 
 function categoriesLength() {
