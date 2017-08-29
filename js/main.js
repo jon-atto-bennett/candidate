@@ -11,11 +11,13 @@ window.shownMatch = false;
 window.partyIcons = {
   'act':'a',
   'green':'g',
-  'internetmana':'i',
+  'internetparty':'i',
   'labour':'l',
   'maori':'m',
   'national':'n',
-  'nzfirst':'1'
+  'nzfirst':'1',
+  'top':'t',
+  'unitedfuture': 'u'
 }
 
 function isDesktop() {
@@ -338,6 +340,7 @@ function setupQuiz() {
 
   $.getJSON("quiz.json", function(data) {
     window.quizData = data;
+     console.log(data);
 
     setupQuestions();
   });
@@ -542,6 +545,7 @@ function showMatched(topVoted) {
     partyDiv.css({"background-color": party.colour});
   });
 
+
   $('.its_a_match .single, .its_a_match .double, .its_a_match .triple').hide();
 
   // show the correct frame
@@ -576,7 +580,7 @@ function showDetails() {
     $(".party_result:last").remove();
   }
   $.each(scoreSortedParties(), function(index, party){
-    //console.log(party.name + " " + matchedPolicies(party.votes));
+    // console.log(party.name + " " + matchedPolicies(party.votes));
     new_party_result = $('.party_result:first').clone();
 
     new_party_result.css({"background-color": party.colour})
@@ -614,8 +618,8 @@ function matchedPolicies(categories) {
       else
         policies += ", ";
     }
-    //console.log(category);
-    //console.log(getCategory(category));
+    // console.log(category);
+    // console.log(getCategory(category));
     policies += getCategory(category).name;
   });
   return policies;
