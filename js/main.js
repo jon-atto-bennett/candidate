@@ -6,7 +6,7 @@ window.sessionId;
 window.tutorial = true;
 window.tutorialStep = 0;
 window.finished = false;
-window.magicNumber = 5;
+window.magicNumber = 4;
 window.shownMatch = false;
 window.partyIcons = {
   'act':'a',
@@ -17,7 +17,10 @@ window.partyIcons = {
   'national':'n',
   'nzfirst':'1',
   'top':'t',
-  'unitedfuture': 'u'
+  'unitedfuture': 'u',
+  'mana': 'r',
+  'conservative': 'v',
+  'democrats': 's'
 }
 
 function isDesktop() {

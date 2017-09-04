@@ -2,7 +2,7 @@
   "categories": [
     {
       "id": 1,
-      "name": "TERTIARY EDUCATION / STUDENT DEBT",
+      "name": "Tertiary Education & Student Debt",
       "title": " What is your policy on tertiary education and student debt?",
       "questions": [
 
@@ -19,7 +19,7 @@
           "parties": [
             "internetparty"
           ],
-          "question": "TBC",
+          "question": "Free education should be given as a human right and debt should be alleviated from those who are already overwhelmed with loans.",
           "policy": "",
           "id": 2
         },
@@ -27,7 +27,7 @@
           "parties": [
             "national"
           ],
-          "question": "TBC",
+          "question": "Retaining interest-free student loans and uphold that  the proportion that students pay of their tertiary study – about 20% - is fair.",
           "policy": "",
           "id": 3
         },
@@ -35,7 +35,7 @@
           "parties": [
             "nzfirst"
           ],
-          "question": "TBC",
+          "question": "Erase the student loan for students staying and working in NZ once their studies are finished, with the requirement that they work for the same number of years as they have studied.  Introduce an universal student allowance which is not subject to parental means testing.",
           "policy": "",
           "id": 4
         },
@@ -51,15 +51,15 @@
           "parties": [
             "maori"
           ],
-          "question": "TBC",
+          "question": "Introduce a universal student allowance and make living cost adjustments based on location. Introduce more scholarships, internships and cadetships.",
           "policy": "",
           "id": 6
         },
         {
           "parties": [
-            "act"
+            "democrats"
           ],
-          "question": "TBC",
+          "question": "Education should have the highest priority in government expenditure.  Scrap student loans for NZ citizens and provide free tertiary education. Graduates would be required to spend a specified time working in NZ.",
           "policy": "",
           "id": 7
         },
@@ -75,15 +75,31 @@
           "parties": [
             "top"
           ],
-          "question": "TBC",
-          "policy": "",
+          "question": "Youth UBI of $10k per year for all those aged 18-23, affordable housing and long-term rental rights. Rental WOF.",
+          "policy": "Unconditional Basic Income",
           "id": 9
+        },
+        {
+          "parties": [
+            "conservative"
+          ],
+          "question": "Three years of free tertiary education as long as students maintained a pass standard. Past that point, student loans would be available.",
+          "policy": "",
+          "id": 10
+        },
+        {
+          "parties": [
+            "mana"
+          ],
+          "question": "Mana",
+          "policy": "",
+          "id": 11
         }
       ]
     },
     {
       "id": 2,
-      "name": "CANNABIS / ALCOHOL",
+      "name": "Cannibas & Alcohol",
       "title": "What is your policy on cannabis and alcohol",
       "questions": [
 
@@ -100,7 +116,7 @@
           "parties": [
             "internetparty"
           ],
-          "question": "TBC",
+          "question": "Decriminalise and legalise marijuana and the use of it. Introduce a tax on cannabis and use the revenue to fund education and healthcare.",
           "policy": "",
           "id": 2
         },
@@ -108,7 +124,7 @@
           "parties": [
             "national"
           ],
-          "question": "TBC",
+          "question": "There are no benefits to legalising cannabis that outweigh their harms to society.",
           "policy": "",
           "id": 3
         },
@@ -116,7 +132,7 @@
           "parties": [
             "nzfirst"
           ],
-          "question": "TBC",
+          "question": "Put the question of decriminalising or legalising recreational cannabis to the NZ public. With regard to medicinal cannabis, support access for those who need it under a prescription regime.",
           "policy": "",
           "id": 4
         },
@@ -132,15 +148,15 @@
           "parties": [
             "maori"
           ],
-          "question": "TBC",
+          "question": "Support the use of medicinal cannabis and spark a greater discussion with the wider community around use of cannabis recreationally.",
           "policy": "",
           "id": 6
         },
         {
           "parties": [
-            "act"
+            "democrats"
           ],
-          "question": "TBC",
+          "question": "Increase penalties for the sale of hard drugs and increase funding for police force drug operations. Alcohol and drug abuse awareness programmes will be incorporated into the core curriculum of NZ schools. Medical cannabis use will be permitted.",
           "policy": "",
           "id": 7
         },
@@ -156,15 +172,31 @@
           "parties": [
             "top"
           ],
-          "question": "TBC",
+          "question": "Legalise, regulate and tax Cannabis while using the revenue to fund mental health and drug addiction treatment. Increase the legal age of alcohol purchase to 20.",
           "policy": "",
           "id": 9
+        },
+        {
+          "parties": [
+            "conservative"
+          ],
+          "question": "Raise the drinking age to 20 years. Recreational cannabis remains  illegal, but consider authorising of the use of medicinal cannabis.",
+          "policy": "",
+          "id": 10
+        },
+        {
+          "parties": [
+            "mana"
+          ],
+          "question": "Mana",
+          "policy": "",
+          "id": 11
         }
       ]
     },
     {
       "id": 3,
-      "name": "UNEMPLOYMENT / POVERTY",
+      "name": "Unemployment and Poverty",
       "title": "What is your policy regarding poverty and unemployment in NZ?",
       "questions": [
 
@@ -181,7 +213,7 @@
           "parties": [
             "internetparty"
           ],
-          "question": "TBC",
+          "question": "Remove the bureaucracy surrounding food banks in NZ and ensure that supermarket’s excess stock will go directly to food bank shelves.",
           "policy": "",
           "id": 2
         },
@@ -189,7 +221,7 @@
           "parties": [
             "national"
           ],
-          "question": "TBC",
+          "question": "Support equal citizenship and opportunity regardless of gender, ethnicity, socio-economic position or background.",
           "policy": "",
           "id": 3
         },
@@ -197,7 +229,7 @@
           "parties": [
             "nzfirst"
           ],
-          "question": "TBC",
+          "question": "It is a responsibility of government to ensure that no citizens are allowed to fall below a certain standard of living. Re-introduce services such as free milk and fruit at schools for all children and rid of current neo-liberal attitudes.",
           "policy": "",
           "id": 4
         },
@@ -213,15 +245,15 @@
           "parties": [
             "maori"
           ],
-          "question": "TBC",
+          "question": "Eliminate poverty in NZ by 2025. Make cost adjustments to all benefits based on location and introduce a living wage for all workers. Implement government depart accountability and performance.",
           "policy": "",
           "id": 6
         },
         {
           "parties": [
-            "act"
+            "democrats"
           ],
-          "question": "TBC",
+          "question": "Replace all current benefits and allowances with a basic income but retain supplements for the disabled, their carers, and housing.",
           "policy": "",
           "id": 7
         },
@@ -237,15 +269,31 @@
           "parties": [
             "top"
           ],
-          "question": "TBC",
-          "policy": "",
+          "question": "Replace targeted benefits with UBI, $10k per year to the  3 most vulnerable groups (young families with kids Under 3, 65+, 18-23), low-income family support, tax wealth fairly leading to 1/3 income tax cut, 80% kiwis better off.",
+          "policy": "Unconditional Basic Income",
           "id": 9
+        },
+        {
+          "parties": [
+            "conservative"
+          ],
+          "question": "Poverty is not a monetary issue but a holistic one. Wrap around support is needed, including education and training in areas such as relationships, self care, budgeting. The government should provide funding to community groups who support those in poverty.",
+          "policy": "",
+          "id": 10
+        },
+        {
+          "parties": [
+            "mana"
+          ],
+          "question": "Mana",
+          "policy": "",
+          "id": 11
         }
       ]
     },
     {
       "id": 4,
-      "name": "HEALTHCARE",
+      "name": "Healthcare",
       "title": "What is your policy on health care?",
       "questions": [
 
@@ -262,7 +310,7 @@
           "parties": [
             "internetparty"
           ],
-          "question": "TBC",
+          "question": "Develop electronic personal health records which will be owned by all New Zealanders and enable individuals to understand their own health and recall their medical history.",
           "policy": "",
           "id": 2
         },
@@ -270,7 +318,7 @@
           "parties": [
             "national"
           ],
-          "question": "TBC",
+          "question": "Expand cheaper GP visits, invest $224m extra for mental health and further investment in hospital infrastructure.",
           "policy": "",
           "id": 3
         },
@@ -278,7 +326,7 @@
           "parties": [
             "nzfirst"
           ],
-          "question": "TBC",
+          "question": "See healthcare as a key investment in NZ’s human resource. Continue free doctor visits for under 6 year olds and introduce a certain amount of free doctor visits per year to those over 65 to reduce pressure on hospitals. Address the underfunding of mental health services.",
           "policy": "",
           "id": 4
         },
@@ -294,15 +342,15 @@
           "parties": [
             "maori"
           ],
-          "question": "TBC",
+          "question": "Free GP visits and prescriptions for under 18 years and free medical and dental care for over 55 years. Increase funding in focused areas such as mental health, maternity care, hospice facilities, and homecare.",
           "policy": "",
           "id": 6
         },
         {
           "parties": [
-            "act"
+            "democrats"
           ],
-          "question": "TBC",
+          "question": "Maintain a fully funded health service, from primary care through to major surgery and rehabilitation. Dramatically increase the funding for mental health. Health infrastructure will be funded by the Reserve Bank as interest-free loans through local bodies.",
           "policy": "",
           "id": 7
         },
@@ -318,15 +366,31 @@
           "parties": [
             "top"
           ],
-          "question": "TBC",
+          "question": "Junk food tax rebated to whole foods, greater mental health funding, ban junk food advertising to kids, healthy star rating compulsory.",
           "policy": "",
           "id": 9
+        },
+        {
+          "parties": [
+            "conservative"
+          ],
+          "question": "Incentivise NZers to take private health insurance by making premiums tax deductible.Oppose abortion. Stop treating mental health as a medical condition and start treating it with trauma counselling.",
+          "policy": "",
+          "id": 10
+        },
+        {
+          "parties": [
+            "mana"
+          ],
+          "question": "Mana",
+          "policy": "",
+          "id": 11
         }
       ]
     },
     {
       "id": 5,
-      "name": "TRANSPORT",
+      "name": "Transport",
       "title": "What is your policy on transport infrastructure?",
       "questions": [
 
@@ -334,24 +398,15 @@
           "parties": [
             "green"
           ],
-          "question": "TBC",
+          "question": "Free buses and trains for people under 19, students, apprentices, and disabled people. Build rail to Auckland airport by 2021, other bus and train projects nationwide, and safer cycling.",
           "policy": "",
           "id": 1
-        },
-
-        {
-          "parties": [
-            "internetparty"
-          ],
-          "question": "TBC",
-          "policy": "",
-          "id": 2
         },
         {
           "parties": [
             "national"
           ],
-          "question": "TBC",
+          "question": "Reap the benefits of  the already $20 billion invested to build a safer, more efficient transport system that supports a more competitive economy.",
           "policy": "",
           "id": 3
         },
@@ -359,7 +414,7 @@
           "parties": [
             "nzfirst"
           ],
-          "question": "TBC",
+          "question": "Take emphasis off roads and balance this out with rail and increase the accessibility of public transport to get cars off the roads. Support to shift our domestic fleet from petrol and diesel to electric as soon as practicable.",
           "policy": "",
           "id": 4
         },
@@ -375,15 +430,15 @@
           "parties": [
             "maori"
           ],
-          "question": "TBC",
+          "question": "Invest in good road and rail networks that link well to air and sea ports as well as provision for cycling and walking in order to support New Zealand’s transport infrastructure.",
           "policy": "",
           "id": 6
         },
         {
           "parties": [
-            "act"
+            "democrats"
           ],
-          "question": "TBC",
+          "question": "Aim for a publicly-owned, integrated transport system to all regions. Electrify rail for bulk freight movement. Restoration of Air New Zealand to full public ownership. Research into and development of alternative fuels and renewable energy sources.",
           "policy": "",
           "id": 7
         },
@@ -399,15 +454,31 @@
           "parties": [
             "top"
           ],
-          "question": "TBC",
+          "question": "Should be fossil fuel free 2050, and large new investments have to be carbon costed. Electrify our cars + trains, congestion charges.",
           "policy": "",
           "id": 9
+        },
+        {
+          "parties": [
+            "conservative"
+          ],
+          "question": "Become world leaders in innovation rather than poor copy-cats. Call for a thorough engineering report to be done on an alternate modern transport systems within urban areas.",
+          "policy": "",
+          "id": 10
+        },
+        {
+          "parties": [
+            "mana"
+          ],
+          "question": "Mana",
+          "policy": "",
+          "id": 11
         }
       ]
     },
     {
       "id": 6,
-      "name": "HOUSING",
+      "name": "Housing",
       "title": "What is your policy on housing?",
       "questions": [
 
@@ -420,19 +491,12 @@
           "id": 1
         },
 
-        {
-          "parties": [
-            "internetparty"
-          ],
-          "question": "TBC",
-          "policy": "",
-          "id": 2
-        },
+
         {
           "parties": [
             "national"
           ],
-          "question": "TBC",
+          "question": "Get more houses built faster through planning reform, training infrastructure provision and the Crown Building Programme.",
           "policy": "",
           "id": 3
         },
@@ -440,7 +504,7 @@
           "parties": [
             "nzfirst"
           ],
-          "question": "TBC",
+          "question": "Return NZ to a home owning democracy.  Sell residential sections under long term agreements (up to 25 years) to first home buyers.  Minimise immigration and restrict house and land sales to Kiwis only.",
           "policy": "",
           "id": 4
         },
@@ -456,15 +520,15 @@
           "parties": [
             "maori"
           ],
-          "question": "TBC",
+          "question": "End homelessness by 2020. Build 90,000 homes over the next 5 years - 30,000 of those in Auckland. Improve tenants’ rights and enforce a compulsory Warrant of Fitness on all homes.",
           "policy": "",
           "id": 6
         },
         {
           "parties": [
-            "act"
+            "democrats"
           ],
-          "question": "TBC",
+          "question": "Tax first home buyers half the normal tax rate of the earner. New homes should be built with eco-friendly features such as solar panels, double glazing and grey water systems.",
           "policy": "",
           "id": 7
         },
@@ -480,15 +544,31 @@
           "parties": [
             "top"
           ],
-          "question": "TBC",
+          "question": "Decent tenant rights (more long-term) and rental Warrant Of Fitness.",
           "policy": "",
           "id": 9
+        },
+        {
+          "parties": [
+            "conservative"
+          ],
+          "question": "Halt immigration for 7-8 months to allow time to build sufficient houses to catch up on our shortage, then reintroduce controlled immigration again. Continue to upgrade existing houses for healthy living .No non citizen or non resident should be able to purchase property in NZ.",
+          "policy": "",
+          "id": 10
+        },
+        {
+          "parties": [
+            "mana"
+          ],
+          "question": "Mana",
+          "policy": "",
+          "id": 11
         }
       ]
     },
     {
       "id": 7,
-      "name": "CLIMATE CHANGE",
+      "name": "Climate Change",
       "title": "What is your policy regarding climate change and ways to mitigate it?",
       "questions": [
 
@@ -496,7 +576,7 @@
           "parties": [
             "green"
           ],
-          "question": "TBC",
+          "question": "Support clean energy like solar and wind, tax breaks for electric cars, and ensure polluters pay a price for their pollution to motivate them to reduce it.",
           "policy": "",
           "id": 1
         },
@@ -505,7 +585,7 @@
           "parties": [
             "internetparty"
           ],
-          "question": "TBC",
+          "question": "100% of electricity to be generated from renewable sources by 2025 and are push for NZ to be a global leader in Green Technologies.",
           "policy": "",
           "id": 2
         },
@@ -513,7 +593,7 @@
           "parties": [
             "national"
           ],
-          "question": "TBC",
+          "question": "Stay committed to our ambitious Paris Agreement target of 30% below 2005 levels by 2030. Reduce emissions, plant more trees and participate in high-quality international carbon markets.",
           "policy": "",
           "id": 3
         },
@@ -521,7 +601,7 @@
           "parties": [
             "nzfirst"
           ],
-          "question": "TBC",
+          "question": "Progressively phase out the burning of fossil fuels  and instead use renewable energy. Support the establishment of a formal planning process to achieve fossil carbon reduction relevant to NZ in a discussion between government, the businesses, universities and other sectors to ensure that the process will be independent.",
           "policy": "",
           "id": 4
         },
@@ -537,15 +617,15 @@
           "parties": [
             "maori"
           ],
-          "question": "TBC",
+          "question": "Support the reduction of emission targets as identified in the Paris Agreement. Support Zero Carbon and set emissions and carbon budgets into law.",
           "policy": "",
           "id": 6
         },
         {
           "parties": [
-            "act"
+            "democrats"
           ],
-          "question": "TBC",
+          "question": "Withdraw from the Paris agreement to retain sovereignty over any climate-related decisions. Replace the ETS with measures to reduce pollution and provide financial assistance to help industry meet new emissions standards.",
           "policy": "",
           "id": 7
         },
@@ -561,19 +641,37 @@
           "parties": [
             "top"
           ],
-          "question": "TBC",
+          "question": "Fossil fuel free by 2050, restore ETS, 100% renewable energy, polluters to pay, replant erosion prone land.",
           "policy": "",
           "id": 9
+        },
+        {
+          "parties": [
+            "conservative"
+          ],
+          "question": "Pull NZ out of the UN Kyoto and the Paris agreements and put that money towards Research & Development for pollution solutions, to clean up our own environment and then export the innovative technology to other countries.",
+          "policy": "",
+          "id": 10
+        },
+        {
+          "parties": [
+            "mana"
+          ],
+          "question": "Mana",
+          "policy": "",
+          "id": 11
         }
       ]
     }
+
+
   ],
   "parties": [
     {
-      "slug": "act",
-      "name": "ACT",
+      "slug": "democrats",
+      "name": "Democrats",
       "url": "http://www.google.com",
-      "colour": "#ffd300"
+      "colour": "#004d00"
     },
     {
       "slug": "green",
@@ -622,6 +720,18 @@
       "name": "United Future",
       "url": "http://www.google.com",
       "colour": "#9ca306"
+    },
+    {
+      "slug": "mana",
+      "name": "Mana",
+      "url": "http://www.google.com",
+      "colour": "#d40c13"
+    },
+    {
+      "slug": "conservative",
+      "name": "Conservative",
+      "url": "http://www.google.com",
+      "colour": "#6aabdd"
     }
   ]
 }
