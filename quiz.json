@@ -27,7 +27,7 @@
           "parties": [
             "national"
           ],
-          "question": "Retaining interest-free student loans and uphold that  the proportion that students pay of their tertiary study – about 20% - is fair.",
+          "question": "Keep interest-free student loans and uphold that the amount that students pay of their tertiary study – about 20% - is fair.",
           "policy": "",
           "id": 3
         },
@@ -35,15 +35,15 @@
           "parties": [
             "nzfirst"
           ],
-          "question": "Erase the student loan for students staying and working in NZ once their studies are finished, with the requirement that they work for the same number of years as they have studied.  Introduce an universal student allowance which is not subject to parental means testing.",
-          "policy": "",
+          "question": "Erase the student loan for students, with the requirement that they work for the same number of years as they have studied. Introduce an universal student allowance which is not subject to parental means testing.",
+          "policy": "Universal Student Allowance - A student allowance that is the same for everyone, without exception.",
           "id": 4
         },
         {
           "parties": [
             "labour"
           ],
-          "question": "TBC",
+          "question": "Phase in three years free of post-school education and training from 1 Jan 2018 and boost student allowances and maximum living cost loans by $50 a week.",
           "policy": "",
           "id": 5
         },
@@ -52,14 +52,14 @@
             "maori"
           ],
           "question": "Introduce a universal student allowance and make living cost adjustments based on location. Introduce more scholarships, internships and cadetships.",
-          "policy": "",
+          "policy": "Universal Student Allowance - A student allowance that is the same for everyone, without exception. Cadetships are pathways into jobs such as engineering and horticulture",
           "id": 6
         },
         {
           "parties": [
             "democrats"
           ],
-          "question": "Education should have the highest priority in government expenditure.  Scrap student loans for NZ citizens and provide free tertiary education. Graduates would be required to spend a specified time working in NZ.",
+          "question": "Scrap student loans for NZ citizens and provide free tertiary education. Graduates would be required to spend a specified time working in NZ. ",
           "policy": "",
           "id": 7
         },
@@ -76,25 +76,18 @@
             "top"
           ],
           "question": "Youth UBI of $10k per year for all those aged 18-23, affordable housing and long-term rental rights. Rental WOF.",
-          "policy": "Unconditional Basic Income",
+          "policy": "UBI - Unconditional Basic Income, WOF - Warrant of Fitness",
           "id": 9
         },
         {
           "parties": [
             "conservative"
           ],
-          "question": "Three years of free tertiary education as long as students maintained a pass standard. Past that point, student loans would be available.",
+          "question": "Three years of free tertiary education as long as students maintain a pass standard. Past that point, student loans would be available.",
           "policy": "",
           "id": 10
-        },
-        {
-          "parties": [
-            "mana"
-          ],
-          "question": "Mana",
-          "policy": "",
-          "id": 11
         }
+
       ]
     },
     {
@@ -140,7 +133,7 @@
           "parties": [
             "labour"
           ],
-          "question": "TBC",
+          "question": "Allow medicinal cannabis and increase number of drug and alcohol rehabilitation beds.",
           "policy": "",
           "id": 5
         },
@@ -148,7 +141,7 @@
           "parties": [
             "maori"
           ],
-          "question": "Support the use of medicinal cannabis and spark a greater discussion with the wider community around use of cannabis recreationally.",
+          "question": "Support the use of medicinal cannabis and start a greater discussion with the wider community around use of cannabis recreationally.",
           "policy": "",
           "id": 6
         },
@@ -156,7 +149,7 @@
           "parties": [
             "democrats"
           ],
-          "question": "Increase penalties for the sale of hard drugs and increase funding for police force drug operations. Alcohol and drug abuse awareness programmes will be incorporated into the core curriculum of NZ schools. Medical cannabis use will be permitted.",
+          "question": "Increase penalties for the sale of hard drugs and increase funding for police force drug operations. Incorporate alcohol and drug abuse awareness programmes into NZ schools. Allow medicinal cannabis.",
           "policy": "",
           "id": 7
         },
@@ -164,7 +157,7 @@
           "parties": [
             "unitedfuture"
           ],
-          "question": "Greater funding of rehabilitation facilities and new sentencing rules for a more compassionate approach to cannabis possession. Allow suppliers to submit drugs for testing and ensure safety their safety.",
+          "question": "Greater funding of rehabilitation facilities and new sentencing rules for a more compassionate approach to cannabis possession. Allow suppliers to submit drugs for testing ensure their safety.",
           "policy": "",
           "id": 8
         },
@@ -172,7 +165,7 @@
           "parties": [
             "top"
           ],
-          "question": "Legalise, regulate and tax Cannabis while using the revenue to fund mental health and drug addiction treatment. Increase the legal age of alcohol purchase to 20.",
+          "question": "Legalise, regulate and tax cannabis while using the revenue to fund mental health and drug addiction treatment. Increase the legal age of alcohol purchase to 20.",
           "policy": "",
           "id": 9
         },
@@ -180,17 +173,9 @@
           "parties": [
             "conservative"
           ],
-          "question": "Raise the drinking age to 20 years. Recreational cannabis remains  illegal, but consider authorising of the use of medicinal cannabis.",
+          "question": "Raise the drinking age to 20 years. Recreational cannabis remains illegal, but consider authorising of the use of medicinal cannabis.",
           "policy": "",
           "id": 10
-        },
-        {
-          "parties": [
-            "mana"
-          ],
-          "question": "Mana",
-          "policy": "",
-          "id": 11
         }
       ]
     },
@@ -229,24 +214,24 @@
           "parties": [
             "nzfirst"
           ],
-          "question": "It is a responsibility of government to ensure that no citizens are allowed to fall below a certain standard of living. Re-introduce services such as free milk and fruit at schools for all children and rid of current neo-liberal attitudes.",
-          "policy": "",
+          "question": "Re-introduce services such as free milk and fruit at schools for all children and rid of current neo-liberal attitudes.",
+          "policy": "In this context, 'neo-liberal attitudes' are the idea that the government does not have main responsibility to care for its citizens.",
           "id": 4
         },
         {
           "parties": [
             "labour"
           ],
-          "question": "TBC",
-          "policy": "",
+          "question": "Extend access to Working For Families, $60 a week for each child in the first year, winter fuel payments for main benefit & superannuation recipients.",
+          "policy": "Working For Families was introduced by the Labour Government in 2004 with the aim of supporting people into work and income adequacy. Superannuation is received by people over 65 years of age in NZ.",
           "id": 5
         },
         {
           "parties": [
             "maori"
           ],
-          "question": "Eliminate poverty in NZ by 2025. Make cost adjustments to all benefits based on location and introduce a living wage for all workers. Implement government depart accountability and performance.",
-          "policy": "",
+          "question": "Eliminate poverty in NZ by 2025. Make cost adjustments to all benefits based on location and introduce a living wage for all workers. Implement government accountability and performance.",
+          "policy": "A living wage is a wage that is enough to have a normal standard of life.",
           "id": 6
         },
         {
@@ -270,24 +255,16 @@
             "top"
           ],
           "question": "Replace targeted benefits with UBI, $10k per year to the  3 most vulnerable groups (young families with kids Under 3, 65+, 18-23), low-income family support, tax wealth fairly leading to 1/3 income tax cut, 80% kiwis better off.",
-          "policy": "Unconditional Basic Income",
+          "policy": "UBI - Unconditional Basic Income",
           "id": 9
         },
         {
           "parties": [
             "conservative"
           ],
-          "question": "Poverty is not a monetary issue but a holistic one. Wrap around support is needed, including education and training in areas such as relationships, self care, budgeting. The government should provide funding to community groups who support those in poverty.",
+          "question": "Poverty is not a monetary issue but a holistic one. Wrap around support is needed, including education and training in areas such as relationships, self care, budgeting.",
           "policy": "",
           "id": 10
-        },
-        {
-          "parties": [
-            "mana"
-          ],
-          "question": "Mana",
-          "policy": "",
-          "id": 11
         }
       ]
     },
@@ -301,7 +278,7 @@
           "parties": [
             "green"
           ],
-          "question": "Engage in a nationwide enquiry into the reasons for poor mental health services in NZ to alleviate its effects. Deliver practical, community based solutions with trained and compassionate professionals.",
+          "question": "Conduct a nationwide enquiry into the reasons for poor mental health services in NZ to reduce its effects. Deliver practical, community based solutions with trained and compassionate professionals.",
           "policy": "",
           "id": 1
         },
@@ -326,7 +303,7 @@
           "parties": [
             "nzfirst"
           ],
-          "question": "See healthcare as a key investment in NZ’s human resource. Continue free doctor visits for under 6 year olds and introduce a certain amount of free doctor visits per year to those over 65 to reduce pressure on hospitals. Address the underfunding of mental health services.",
+          "question": "Continue free doctor visits for under 6 year olds and introduce a certain amount of free doctor visits per year to those over 65 to reduce pressure on hospitals. Address the underfunding of mental health services.",
           "policy": "",
           "id": 4
         },
@@ -334,7 +311,7 @@
           "parties": [
             "labour"
           ],
-          "question": "TBC",
+          "question": "Reverse National’s underfunding of health, cut GP fees by $10, review mental health services, and put youth health services in all public secondary schools.",
           "policy": "",
           "id": 5
         },
@@ -350,7 +327,7 @@
           "parties": [
             "democrats"
           ],
-          "question": "Maintain a fully funded health service, from primary care through to major surgery and rehabilitation. Dramatically increase the funding for mental health. Health infrastructure will be funded by the Reserve Bank as interest-free loans through local bodies.",
+          "question": "Maintain a fully funded health service. Dramatically increase the funding for mental health. Health infrastructure will be funded by the Reserve Bank as interest-free loans through local bodies.",
           "policy": "",
           "id": 7
         },
@@ -358,7 +335,7 @@
           "parties": [
             "unitedfuture"
           ],
-          "question": "Increased funding of professionals and community based works to take preventative measures against mental health and general health issues. Easier accessibility for people from all backgrounds.",
+          "question": "Increased funding to professionals and community-based initiatives to help mental health and general health issues. Easier accessibility for people from all backgrounds.",
           "policy": "",
           "id": 8
         },
@@ -374,17 +351,9 @@
           "parties": [
             "conservative"
           ],
-          "question": "Incentivise NZers to take private health insurance by making premiums tax deductible.Oppose abortion. Stop treating mental health as a medical condition and start treating it with trauma counselling.",
-          "policy": "",
+          "question": "Incentivise Kiwis to take private health insurance by making premiums tax deductible. Oppose abortion.",
+          "policy": "Premiums - The amount you pay for having insurance. Tax Deductible - Taxes that you can claim money on.",
           "id": 10
-        },
-        {
-          "parties": [
-            "mana"
-          ],
-          "question": "Mana",
-          "policy": "",
-          "id": 11
         }
       ]
     },
@@ -398,7 +367,7 @@
           "parties": [
             "green"
           ],
-          "question": "Free buses and trains for people under 19, students, apprentices, and disabled people. Build rail to Auckland airport by 2021, other bus and train projects nationwide, and safer cycling.",
+          "question": "Free buses and trains for people under 19, students, apprentices, and disabled people. Build rail to Auckland airport by 2021. Introduce other bus and train projects nationwide, as well as safer cycling.",
           "policy": "",
           "id": 1
         },
@@ -406,7 +375,7 @@
           "parties": [
             "national"
           ],
-          "question": "Reap the benefits of  the already $20 billion invested to build a safer, more efficient transport system that supports a more competitive economy.",
+          "question": "Enjoy the benefits of the already $20 billion invested to build a safer, more efficient transport system that supports a more competitive economy.",
           "policy": "",
           "id": 3
         },
@@ -414,7 +383,7 @@
           "parties": [
             "nzfirst"
           ],
-          "question": "Take emphasis off roads and balance this out with rail and increase the accessibility of public transport to get cars off the roads. Support to shift our domestic fleet from petrol and diesel to electric as soon as practicable.",
+          "question": "Take emphasis off roads and balance this out with rail and increase the accessibility of public transport.",
           "policy": "",
           "id": 4
         },
@@ -422,15 +391,15 @@
           "parties": [
             "labour"
           ],
-          "question": "TBC",
-          "policy": "",
+          "question": "Invest in world-class transport: light rail from Auckland Airport to the CDB, rapid rail in the Golden Triangle, and double funding for new regional roads.",
+          "policy": "Golden Triangle - The space between Auckland, the Waikato and Tauranga.",
           "id": 5
         },
         {
           "parties": [
             "maori"
           ],
-          "question": "Invest in good road and rail networks that link well to air and sea ports as well as provision for cycling and walking in order to support New Zealand’s transport infrastructure.",
+          "question": "Invest in good road and rail networks that link well to air and sea ports as well as provision for cycling and walking in order to support NZ’s transport infrastructure.",
           "policy": "",
           "id": 6
         },
@@ -438,7 +407,7 @@
           "parties": [
             "democrats"
           ],
-          "question": "Aim for a publicly-owned, integrated transport system to all regions. Electrify rail for bulk freight movement. Restoration of Air New Zealand to full public ownership. Research into and development of alternative fuels and renewable energy sources.",
+          "question": "Aim for a publicly-owned, integrated transport system to all regions. Electrify rail for bulk freight movement. Restore Air New Zealand to full public ownership.Research into and development of alternative fuels and renewable energy sources.",
           "policy": "",
           "id": 7
         },
@@ -446,16 +415,16 @@
           "parties": [
             "unitedfuture"
           ],
-          "question": "Introduce a fully integrated public transport system with an emphasis on bus and rail. Local Government, rather than the central Government, is allocated money to spend on transport developments how it sees fit.",
-          "policy": "",
+          "question": "Introduce a fully integrated public transport system with an emphasis on bus and rail. Local government is given money to spend on transport how it sees best, rather than the central government.",
+          "policy": "Local government - regional councils. Central government - The government of New Zealand located in the Beehive.",
           "id": 8
         },
         {
           "parties": [
             "top"
           ],
-          "question": "Should be fossil fuel free 2050, and large new investments have to be carbon costed. Electrify our cars + trains, congestion charges.",
-          "policy": "",
+          "question": "Be fossil fuel free 2050, and large new investments have to be carbon costed. Electrify our cars  and trains.",
+          "policy": "Carbon Costed - A cost applied to carbon emissions.",
           "id": 9
         },
         {
@@ -465,14 +434,6 @@
           "question": "Become world leaders in innovation rather than poor copy-cats. Call for a thorough engineering report to be done on an alternate modern transport systems within urban areas.",
           "policy": "",
           "id": 10
-        },
-        {
-          "parties": [
-            "mana"
-          ],
-          "question": "Mana",
-          "policy": "",
-          "id": 11
         }
       ]
     },
@@ -486,25 +447,31 @@
           "parties": [
             "green"
           ],
-          "question": "Introduce a Warrant of Fitness for all homes proving their safety to live in. Implement a rent-to-buy scheme from the government and secure rights of renters with tighter mandatory tenancy agreements and fairer rent prices.",
-          "policy": "",
+          "question": "Introduce a WOF for all homes proving their safety to live in. Implement a rent-to-buy scheme from the government and secure rights of renters with tighter tenancy agreements and fairer rent prices.",
+          "policy": "WOF - Warrant Of Fitness",
           "id": 1
         },
-
-
+        {
+          "parties": [
+            "internetparty"
+          ],
+          "question": "House developers must open the doors of the 30,000 empty houses in Auckland, to renters, at market rates.",
+          "policy": "",
+          "id": 2
+        },
         {
           "parties": [
             "national"
           ],
-          "question": "Get more houses built faster through planning reform, training infrastructure provision and the Crown Building Programme.",
-          "policy": "",
+          "question": "Get more houses built faster through planning reform, training infrastructure provision and the Crown Building Project.",
+          "policy": "Crown Building Project - A project by the National Government to build 34,000 homes in the next 10 years.",
           "id": 3
         },
         {
           "parties": [
             "nzfirst"
           ],
-          "question": "Return NZ to a home owning democracy.  Sell residential sections under long term agreements (up to 25 years) to first home buyers.  Minimise immigration and restrict house and land sales to Kiwis only.",
+          "question": "Sell residential sections under long term agreements (up to 25 years) to first home buyers.  Minimise immigration and restrict house and land sales to Kiwis only.",
           "policy": "",
           "id": 4
         },
@@ -512,16 +479,16 @@
           "parties": [
             "labour"
           ],
-          "question": "TBC",
-          "policy": "",
+          "question": "Crackdown on speculators, build more affordable and state houses, set standards to ensure homes are warm and dry, and increase security of tenure.",
+          "policy": "Tenure - The conditions under which land or buildings are occupied.",
           "id": 5
         },
         {
           "parties": [
             "maori"
           ],
-          "question": "End homelessness by 2020. Build 90,000 homes over the next 5 years - 30,000 of those in Auckland. Improve tenants’ rights and enforce a compulsory Warrant of Fitness on all homes.",
-          "policy": "",
+          "question": "End homelessness by 2020. Build 90,000 homes over the next 5 years - 30,000 of those in Auckland. Improve tenants’ rights and enforce a compulsory WOF on all homes.",
+          "policy": "WOF - Warrant Of Fitness",
           "id": 6
         },
         {
@@ -544,25 +511,17 @@
           "parties": [
             "top"
           ],
-          "question": "Decent tenant rights (more long-term) and rental Warrant Of Fitness.",
-          "policy": "",
+          "question": "Decent tenant rights (more long-term) and have a rental WOF.",
+          "policy": "WOF - Warrant Of Fitness",
           "id": 9
         },
         {
           "parties": [
             "conservative"
           ],
-          "question": "Halt immigration for 7-8 months to allow time to build sufficient houses to catch up on our shortage, then reintroduce controlled immigration again. Continue to upgrade existing houses for healthy living .No non citizen or non resident should be able to purchase property in NZ.",
+          "question": "Pause immigration for 7-8 months to allow time to build sufficient houses to catch up on our shortage. Continue to upgrade existing houses. Only NZ citizens and residents should be able to purchase property.",
           "policy": "",
           "id": 10
-        },
-        {
-          "parties": [
-            "mana"
-          ],
-          "question": "Mana",
-          "policy": "",
-          "id": 11
         }
       ]
     },
@@ -576,8 +535,8 @@
           "parties": [
             "green"
           ],
-          "question": "Support clean energy like solar and wind, tax breaks for electric cars, and ensure polluters pay a price for their pollution to motivate them to reduce it.",
-          "policy": "",
+          "question": "Support clean energy like solar and wind, have tax breaks for electric cars, and ensure polluters pay a price for their pollution to motivate them to reduce it.",
+          "policy": "Tax break - A tax concession or advantage allowed by the government.",
           "id": 1
         },
 
@@ -594,39 +553,39 @@
             "national"
           ],
           "question": "Stay committed to our ambitious Paris Agreement target of 30% below 2005 levels by 2030. Reduce emissions, plant more trees and participate in high-quality international carbon markets.",
-          "policy": "",
+          "policy": "The Paris Agreement was signed in 2015 by 196 countries at a United Nations conference who agreed to properly work towards reducing the affects of climate change. Carbon markets are where carbon credits are traded",
           "id": 3
         },
         {
           "parties": [
             "nzfirst"
           ],
-          "question": "Progressively phase out the burning of fossil fuels  and instead use renewable energy. Support the establishment of a formal planning process to achieve fossil carbon reduction relevant to NZ in a discussion between government, the businesses, universities and other sectors to ensure that the process will be independent.",
-          "policy": "",
+          "question": "Phase out the burning of fossil fuels and instead use renewable energy. Support the establishment of a formal planning process between government, the businesses, and universities.",
+          "policy": "Fossil Fuels - Fuels such as coal or gas. Renewable Energy - Energy such as wind, rain, sunlight. ",
           "id": 4
         },
         {
           "parties": [
             "labour"
           ],
-          "question": "TBC",
-          "policy": "",
+          "question": "Become a world leader in tackling climate change: create an independent Climate Commission and carbon budgeting, restore the ETS, and ensure a just transition.",
+          "policy": "ETS - Emissions Trading Scheme",
           "id": 5
         },
         {
           "parties": [
             "maori"
           ],
-          "question": "Support the reduction of emission targets as identified in the Paris Agreement. Support Zero Carbon and set emissions and carbon budgets into law.",
-          "policy": "",
+          "question": "Support the reduction of emission targets as identified in the Paris Agreement. Support zero-carbon and set emissions and carbon budgets into law.",
+          "policy": "The Paris Agreement was signed in 2015 by 196 countries at a United Nations conference who agreed to properly work towards reducing the affects of climate change. Zero-Carbon - No carbon dioxide released into the atmosphere.",
           "id": 6
         },
         {
           "parties": [
             "democrats"
           ],
-          "question": "Withdraw from the Paris agreement to retain sovereignty over any climate-related decisions. Replace the ETS with measures to reduce pollution and provide financial assistance to help industry meet new emissions standards.",
-          "policy": "",
+          "question": "Withdraw from the Paris Agreement to retain independence over any climate-related decisions. Replace the ETS with measures to reduce pollution and provide financial assistance to help industry meet new emissions standards.",
+          "policy": "ETS - Emissions Trading Scheme. The Paris Agreement was signed in 2015 by 196 countries at a United Nations conference who agreed to properly work towards reducing the affects of climate change.",
           "id": 7
         },
         {
@@ -642,7 +601,7 @@
             "top"
           ],
           "question": "Fossil fuel free by 2050, restore ETS, 100% renewable energy, polluters to pay, replant erosion prone land.",
-          "policy": "",
+          "policy": "ETS - Emissions Trading Scheme",
           "id": 9
         },
         {
@@ -650,16 +609,8 @@
             "conservative"
           ],
           "question": "Pull NZ out of the UN Kyoto and the Paris agreements and put that money towards Research & Development for pollution solutions, to clean up our own environment and then export the innovative technology to other countries.",
-          "policy": "",
+          "policy": "Kyoto Protocol  - A UN climate change international treaty signed by 192 countries in 1997. The Paris Agreement was signed in 2015 by 196 countries at a United Nations conference who agreed to properly work towards reducing the affects of climate change. ",
           "id": 10
-        },
-        {
-          "parties": [
-            "mana"
-          ],
-          "question": "Mana",
-          "policy": "",
-          "id": 11
         }
       ]
     }
@@ -720,12 +671,6 @@
       "name": "United Future",
       "url": "http://www.google.com",
       "colour": "#9ca306"
-    },
-    {
-      "slug": "mana",
-      "name": "Mana",
-      "url": "http://www.google.com",
-      "colour": "#d40c13"
     },
     {
       "slug": "conservative",

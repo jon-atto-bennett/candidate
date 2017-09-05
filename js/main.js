@@ -6,7 +6,7 @@ window.sessionId;
 window.tutorial = true;
 window.tutorialStep = 0;
 window.finished = false;
-window.magicNumber = 4;
+window.magicNumber = 5;
 window.shownMatch = false;
 window.partyIcons = {
   'act':'a',
