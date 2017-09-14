@@ -6,7 +6,7 @@ window.sessionId;
 window.tutorial = true;
 window.tutorialStep = 0;
 window.finished = false;
-window.magicNumber = 5;
+window.magicNumber = 4;
 window.shownMatch = false;
 window.partyIcons = {
   'act':'a',
@@ -44,6 +44,7 @@ $(document).ready(function() {
   // $('.homepage').height($(document).height());
 
   setupQuiz();
+  getAnonResults();
 
   $('.homepage .skip').click(function(e) {
     startQuiz();
@@ -899,6 +900,77 @@ function serializeVotes() {
 
 function postAnonResults() {
   $.post('store.php', { "uuid": window.sessionId, "votes": JSON.stringify(serializeVotes())});
+}
+
+function getAnonResults () {
+  $.get('results.php', function (data) {
+    data = '[' + data.slice(0, -1) + ']';
+    crunchData(JSON.parse(data))
+    //console.log(JSON.parse(data))
+  });
+}
+
+function crunchData (data) {
+  let greenCount = 0
+  let democratsCount = 0
+  let internetpartyCount = 0
+  let labourCount = 0
+  let maoriCount = 0
+  let nationalCount = 0
+  let nzfirstCount = 0
+  let topCount = 0
+  let unitedfutureCount = 0
+  let conservativeCount = 0
+  // number of goes
+  console.log(data.length / 10)
+
+  // number of matches
+  for (var i = 0; i < data.length; i++) {
+    if (data[i]['votes'].length >= 4) {
+      switch (data[i]['party']) {
+        case 'green':
+          greenCount++
+          break
+        case 'democrats':
+          democratsCount++
+          break
+        case 'internetparty':
+          internetpartyCount++
+          break
+        case 'labour':
+          labourCount++
+          break
+        case 'maori':
+          maoriCount++
+          break
+        case 'national':
+          nationalCount++
+          break
+        case 'nzfirst':
+          nzfirstCount++
+          break
+        case 'top':
+          topCount++
+          break
+        case 'unitedfuture':
+          unitedfutureCount++
+          break
+        case 'conservative':
+          conservativeCount++
+          break
+      }
+    }
+  }
+  console.log('Green ' + greenCount + ' matches');
+  console.log('Democrats ' + democratsCount + ' matches');
+  console.log('Internetparty ' + internetpartyCount + ' matches');
+  console.log('Labour ' + labourCount + ' matches');
+  console.log('Maori ' + maoriCount + ' matches');
+  console.log('National ' + nationalCount + ' matches');
+  console.log('nzfirst ' + nzfirstCount + ' matches');
+  console.log('top ' + topCount + ' matches');
+  console.log('unitedfuture ' + unitedfutureCount + ' matches');
+  console.log('conservative ' + conservativeCount + ' matches');
 }
 
 function uuid() {
